@@ -1,0 +1,87 @@
+body{
+    background-color:  #0D192C;
+}
+.container{
+    width: 350px;
+    height: 596px;
+    background-color: #15263F;
+    margin: auto;
+    padding: 24px;
+    border-radius: 15px;
+}
+.container1{
+    max-width: 100%;
+   border-radius: 8px;
+}
+.container2{
+    font-family: 'Outfit';
+    font-size: 22px;
+    color: #ffffff;
+}
+.container3{
+    color: #8BACD9;
+    font-size: 18px;
+    font-family: 'Outfit';
+    font-style: normal;
+}
+.info-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+.feral{
+    margin-left: -160px;
+    font-size: 16px;
+   color: #00FFF8;
+}
+.feral1{
+    justify-content: space-between;
+    color: #8BACD9;
+    font-size: 16px;
+    font-family: 'Outfit';
+    margin-left: 8px;
+    align-items: center;
+}
+.info-wrapper1{
+    display: flex;
+    
+}
+.everything{
+    display: flex;
+    flex-direction: column;
+}
+.Line-1{
+     width: 100%;
+    margin-top: 20px;
+    color: #0D192C;
+    } 
+.info-wrapper2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+.image{
+    width: 33px;
+    height: 33px;
+    background-color: #ffffff;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;   
+}
+.span{
+    position: absolute;
+    margin-left: 50px;
+    font-family: 'Outfit';
+    font-style: normal;
+    color: #8BACD9;
+    font-size: 16px;
+}
+.span1{
+    position: absolute;
+    margin-left: 132px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-size: 16px;
+    color: #ffffff;
+}
